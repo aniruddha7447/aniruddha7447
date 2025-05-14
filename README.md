@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/q0pYF5c/code-bg-name.png" alt="Aniruddha Shivaji Lalge Banner" width="100%" />
+</p>
+
 <h1 align="center">
   Hi there 👋, I'm <a href="https://github.com/aniruddha7447" target="_blank">Aniruddha Shivaji Lalge</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
