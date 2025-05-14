@@ -1,78 +1,86 @@
-<h1 align="center">Hi 👋, I'm Aniruddha Shivaji Lalge</h1>
-<h3 align="center">A passionate Java developer and web development intern 🚀</h3>
+<h1 align="center">
+  Hi there 👋, I'm <a href="https://github.com/aniruddha7447" target="_blank">Aniruddha Shivaji Lalge</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;Web+Development+Intern;MERN+Stack+Learner;Loves+Building+Projects" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniruddha7447&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddha7447" />
+  <img src="https://komarev.com/ghpvc/?username=aniruddha7447&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-🌱 Currently learning:  
-- Java programming
-- MERN
-- Ract.js and Node.js  
-- Full Stack Web Development  
-- Java Data Structures and Algorithms  
-- Git & GitHub
+## 🚀 About Me
 
-💼 Mini Projects:
-- 🔹 [Train Ticket Booking Website](https://github.com/aniruddha7447/train-booking)  
-- 🔹 [E-commerce Website with Backend](https://github.com/aniruddha7447/e-commerce)  
-- 🔹 [Fake Instagram Profile Detection ML Project](https://github.com/aniruddha7447/insta-fake-profile)
+- 🌱 Currently learning:
+  - Java Programming
+  - MERN Stack
+  - Full Stack Web Development
+  - DSA with Java
+  - Git & GitHub
 
-📚 Academic Background:
+- 💼 Mini Projects:
+  - 🎟️ [Train Ticket Booking Website](https://github.com/aniruddha7447/train-booking)
+  - 🛒 [E-commerce Website with Backend](https://github.com/aniruddha7447/e-commerce)
+  - 🤖 [Fake Instagram Profile Detection](https://github.com/aniruddha7447/insta-fake-profile)
+
 - 🎓 B.Tech Graduate  
 - 👨‍💻 Suvidha Foundation Web Dev Intern  
 - 💡 YBI Foundation Internship Participant
 
-📫 How to reach me:  
-- 📧 [aniruddhalalge283@gmail.com](mailto:aniruddhalalge283@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aniruddha-lalge-aa06041b3)  
-- 🧠 [GeeksforGeeks](https://www.geeksforgeeks.org/user/aniruddhalalge283/)
-
-⚡ Fun fact: I believe in learning by building!
-
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 📫 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniruddha7447&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha7447&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha7447&theme=tokyonight" alt="GitHub Streak" />
+  <a href="mailto:aniruddhalalge283@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aniruddha-lalge-aa06041b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/aniruddhalalge283/"><img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniruddha7447&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,html,css,js,mysql,git,github,vscode" />
 </p>
 
 ---
 
-🔗 *Thanks for visiting! Feel free to check out my repositories and connect with me.*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniruddha7447&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha7447&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha7447&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aniruddha7447&theme=tokyonight&row=2&column=4" />
+</p>
+
+---
+
+## 🧠 Fun Fact
+> I believe in **learning by building!** 💡 Every small project teaches me something big.
+
+---
+
+<p align="center">
+  🚀 *Thanks for visiting! Explore my work and let's build something amazing together.*
+</p>
