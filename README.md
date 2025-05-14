@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td valign="top" width="35%">
-      <img src="https://i.pinimg.com/originals/9a/ea/53/9aea534fb39f4f187c3e42ce5b7e6f7a.gif" alt="coding" width="100%" height="250px" style="object-fit: cover; border-radius: 12px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="100%" height="250px" style="object-fit: cover; border-radius: 12px;" />
     </td>
   </tr>
 </table>
