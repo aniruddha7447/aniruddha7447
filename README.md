@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;Web+Development+Intern;MERN+Stack+Learner;Loves+Building+Projects" alt="Typing SVG" />
-</h3>
+<!-- Tech banner with name -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/aniruddha-tech-banner.png" alt="Aniruddha Lalge Tech Banner" width="900px" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniruddha7447&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
