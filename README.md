@@ -19,7 +19,7 @@
   <tr>
     <td valign="top" width="65%">
       <ul>
-        <li>🌱 Currently learning:
+        <li>🌱 Currently Purcuing PG-DAC And learning:
           <ul>
             <li>Java Programming</li>
             <li>MERN Stack</li>
