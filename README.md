@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750101-3c0dfd74-b6b0-4c91-a117-1dc1c1a8e734.gif" alt="Tech banner" width="100%" />
-</p>
-
-
 <h1 align="center">
   Hi there 👋, I'm <a href="https://github.com/aniruddha7447" target="_blank">Aniruddha Shivaji Lalge</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
@@ -14,6 +9,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniruddha7447&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- Tech banner with name -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/aniruddha-tech-banner.png" alt="Aniruddha Lalge Tech Banner" width="100%" />
 </p>
 
 ---
