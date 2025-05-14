@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=aniruddha7447&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- Tech banner with name -->
+<!-- Tech banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/aniruddha-tech-banner.png" alt="Aniruddha Lalge Tech Banner" width="900px" height="250px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/aniruddha-tech-banner.png" alt="Aniruddha Tech Banner" width="1000px" height="250px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td valign="top" width="35%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -49,9 +49,15 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:aniruddhalalge283@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aniruddha-lalge-aa06041b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/aniruddhalalge283/"><img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:aniruddhalalge283@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniruddha-lalge-aa06041b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/aniruddhalalge283/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -67,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniruddha7447&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha7447&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aniruddha7447&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha7447&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
