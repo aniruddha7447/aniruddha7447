@@ -13,8 +13,9 @@
 
 <!-- Custom Tech Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/github-banner.png" alt="GitHub Banner" width="1000px" height="250px" style="object-fit: cover; border-radius: 12px;" />
+  <img src="assets/github-banner.png" alt="GitHub Banner" width="1000px" height="250px" style="object-fit: cover; border-radius: 12px;" />
 </p>
+
 
 ---
 
@@ -68,17 +69,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,html,css,js,mysql,git,github,vscode" />
 </p>
-
----
-
-## 📌 Featured Project
-
-> 🔍 **Fake Instagram Profile Detection using Machine Learning**  
-> 🎯 Algorithms: SVM, Random Forest, Decision Tree  
-> 🚀 Built to combat fake accounts and improve online safety  
-> 📁 [View Code](https://github.com/aniruddha7447/fake-insta-profile-detector)
-
----
 
 ## 📈 GitHub Analytics
 
