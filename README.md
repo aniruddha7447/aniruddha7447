@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=aniruddha7447&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- Tech banner -->
+<!-- Custom Tech Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/aniruddha-tech-banner.png" alt="Aniruddha Tech Banner" width="1000px" height="250px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/github-banner.png" alt="GitHub Banner" width="1000px" height="250px" style="object-fit: cover; border-radius: 12px;" />
 </p>
 
 ---
@@ -24,13 +24,14 @@
   <tr>
     <td valign="top" width="65%">
       <ul>
-        <li>🌱 Currently pursuing PG-DAC and learning:
+        <li>🌱 Currently pursuing <strong>PG-DAC</strong></li>
+        <li>💻 Learning:
           <ul>
-            <li>Java Programming</li>
-            <li>MERN Stack</li>
-            <li>Full Stack Web Development</li>
-            <li>DSA with Java</li>
-            <li>Git & GitHub</li>
+            <li>Java Programming ☕</li>
+            <li>MERN Stack 🌐</li>
+            <li>Full Stack Web Development 🧑‍💻</li>
+            <li>DSA with Java 📚</li>
+            <li>Git & GitHub 🔧</li>
           </ul>
         </li>
         <li>🎓 B.Tech Graduate</li>
@@ -39,30 +40,30 @@
       </ul>
     </td>
     <td valign="top" width="35%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="100%" height="250px" style="object-fit: cover; border-radius: 12px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:aniruddhalalge283@gmail.com">
+  <a href="mailto:aniruddhalalge283@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aniruddha-lalge-aa06041b3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aniruddha-lalge-aa06041b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/aniruddhalalge283/">
+  <a href="https://www.geeksforgeeks.org/user/aniruddhalalge283/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-1F8A70?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,nodejs,html,css,js,mysql,git,github,vscode" />
@@ -70,7 +71,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Project
+
+> 🔍 **Fake Instagram Profile Detection using Machine Learning**  
+> 🎯 Algorithms: SVM, Random Forest, Decision Tree  
+> 🚀 Built to combat fake accounts and improve online safety  
+> 📁 [View Code](https://github.com/aniruddha7447/fake-insta-profile-detector)
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniruddha7447&show_icons=true&theme=tokyonight" width="48%" />
@@ -95,11 +105,12 @@
 
 ---
 
-## 🧠 Fun Fact
-> I believe in **learning by building!** 💡 Every small project teaches me something big.
+## 💡 Fun Fact
+
+> I believe in **learning by building** — every small project teaches me something big!
 
 ---
 
 <p align="center">
-  🚀 *Thanks for visiting! Explore my work and let's build something amazing together.*
+  🚀 *Thanks for stopping by! Let’s build something amazing together.*
 </p>
