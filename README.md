@@ -13,7 +13,7 @@
 
 <!-- Tech banner with name -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/aniruddha-tech-banner.png" alt="Aniruddha Lalge Tech Banner" width="900px" />
+  <img src="https://raw.githubusercontent.com/aniruddha7447/aniruddha7447/main/assets/aniruddha-tech-banner.png" alt="Aniruddha Lalge Tech Banner" width="900px" height="250px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td valign="top" width="35%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="100%" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
     </td>
   </tr>
 </table>
