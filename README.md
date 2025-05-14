@@ -22,11 +22,6 @@
   - DSA with Java
   - Git & GitHub
 
-- 💼 Mini Projects:
-  - 🎟️ [Train Ticket Booking Website](https://github.com/aniruddha7447/train-booking)
-  - 🛒 [E-commerce Website with Backend](https://github.com/aniruddha7447/e-commerce)
-  - 🤖 [Fake Instagram Profile Detection](https://github.com/aniruddha7447/insta-fake-profile)
-
 - 🎓 B.Tech Graduate  
 - 👨‍💻 Suvidha Foundation Web Dev Intern  
 - 💡 YBI Foundation Internship Participant
