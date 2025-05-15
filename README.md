@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;Frontend+Developer;MERN+Stack+Developer;Loves+to+Building+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Developer;Spring+Boot+Learner;Frontend+Developer;MERN+Stack+Developer;Loves+Building+Projects" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -27,11 +27,18 @@
         <li>🌱 Currently pursuing <strong>PG-DAC</strong></li>
         <li>💻 Learning:
           <ul>
-            <li>Java Programming ☕</li>
+            <li>Advanced Java & Spring Boot ☕</li>
             <li>MERN Stack 🌐</li>
             <li>Full Stack Web Development 🧑‍💻</li>
             <li>DSA with Java 📚</li>
             <li>Git & GitHub 🔧</li>
+          </ul>
+        </li>
+        <li>👨‍💻 Hands-on experience with:
+          <ul>
+            <li>Frontend projects using React, HTML, CSS, JavaScript</li>
+            <li>Backend logic with Node.js and Express</li>
+            <li>Java-based REST APIs (Spring Boot in progress)</li>
           </ul>
         </li>
         <li>🎓 B.Tech Graduate</li>
@@ -40,7 +47,7 @@
       </ul>
     </td>
     <td valign="top" width="35%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="100%" height="250px" style="object-fit: cover; border-radius: 12px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="100%" height="250px" style="object-fit: cover; border-radius: 12px;" />
     </td>
   </tr>
 </table>
@@ -66,7 +73,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ## 📈 GitHub Analytics
