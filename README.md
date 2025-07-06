@@ -76,6 +76,21 @@
   <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
+---
+
+## 📂 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/aniruddha7447/SpringBoot" target="_blank">
+    <img src="https://img.shields.io/badge/SpringBoot-View_Project-green?style=for-the-badge&logo=springboot&logoColor=white" />
+  </a>
+  <a href="https://github.com/aniruddha7447/DotNet-" target="_blank">
+    <img src="https://img.shields.io/badge/DotNet-View_Project-purple?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
